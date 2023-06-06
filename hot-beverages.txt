@@ -1,2 +1,3 @@
 Hola, esta es la prueba de un cambio en git
 prueba de un commit desde VS code
+si funciona but y prefer use the CLI
